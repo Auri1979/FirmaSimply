@@ -1,0 +1,74 @@
+.form-group{
+    width: 50% ;
+}
+#Nombre {
+    width:50%;
+}
+
+.checkbox, .control-label, .form-control-feedback, .help-block, .radio, label {
+    font-size: 0.95rem;
+    margin-top: 25px;
+    margin-left: 0;
+}
+
+#Categoria {
+    width:50%; 
+}
+
+#Descripcion {
+    width:50%;
+    height: 100px;
+    background-color: white;
+   
+}
+
+#editsubmit{
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+#flexbox{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center ;
+  
+}
+
+#book-form{
+  
+    width: 154%;
+
+}
+
+#leftside {
+      width: 50%;
+
+order: 1;
+}
+
+
+#Estadísticas{
+   order: 2;
+}
+
+
+#here{
+    margin-top: 0;
+}
+
+.checkbox, .control-label, .form-control-feedback, .help-block, .radio, label {
+    font-size: 0.95rem;
+    margin-top: 25px;
+   margin-left: 40px;
+}
+
+input[type=checkbox], input[type=radio] {
+    box-sizing: border-box;
+    margin-right: 5px;
+    padding: 0;
+}
+#sidebar ul.components {
+    padding: 27px 0!important;
+}
+
+
